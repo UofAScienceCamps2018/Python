@@ -58,7 +58,7 @@ While Loop:
     while (conditon):
         if input("Type 'q' to exit ")=="q":
             condition=False 
-##### range #####
+##### `Range` #####
 Useful in for loops when you need it to iterate with numerical values. range(upper_Limit,lower_Limit).
 
     for num in range(1,5):
