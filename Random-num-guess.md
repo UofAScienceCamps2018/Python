@@ -38,9 +38,10 @@ To generate random number, we must import a module called random.
 ## Extension ##
 If you have finished the first part of this program and have got it checked over move on to these extensions. 
 
-#### Extension 1 ####
-Now put this program in a loop so the program will automatically restart once if the user selects the wrong answer. 
-#### Extension 2 #### 
-Add lives so the user has 3 guesses for the same random number. 
-#### Extension 3 #### 
+#### Extension 1 #### 
 Make the program say if the users guess is higher or lower than the random number.
+#### Extension 2 ####
+Now put this program in a loop so the program will automatically restart once if the user selects the wrong answer.(See README.MD for reference on using loops) 
+#### Extension 3 #### 
+Add lives so the user has 3 guesses for the same random number. 
+
