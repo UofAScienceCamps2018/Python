@@ -55,3 +55,14 @@ While Loop:
     while (conditon):
         if input("Type 'q' to exit ")=="q":
             condition=False 
+            
+#### Function ####
+Functions are a set of instructions that can be used multiple times through out a program. They are given values and can return values. 
+
+    def cube(inputValues):
+        ans=iinputValues*inputValues*inputValues
+        return ans
+    number = int(input("Enter a number to cube "))
+    anwser = cube(number)
+    print(anwser)
+        
