@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-File:
+File: guess.py
 Name:
 
 A number guessing game
