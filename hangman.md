@@ -1,4 +1,4 @@
-# Dice role
+# Hang Man
 The goal of this program is to create hangman on the computer 
 ## Sample input ## 
     >>The anwser is a 5 letter word
