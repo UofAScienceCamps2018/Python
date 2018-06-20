@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-File:
+File: hangman.py
 Name:
 
 A python implementation of hangman
