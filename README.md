@@ -58,7 +58,17 @@ While Loop:
     while (conditon):
         if input("Type 'q' to exit ")=="q":
             condition=False 
-            
+##### range #####
+Useful in for loops when you need it to iterate with numerical values. range(upper_Limit,lower_Limit).
+
+    for num in range(1,5):
+        print("Player " + str(num))
+    >>Player 1
+    >>Player 2
+    >>Player 3
+    >>Player 4
+    >>Player 5
+              
 #### Function ####
 Functions are a set of instructions that can be used multiple times through out a program. They are given values and can return values. 
 
