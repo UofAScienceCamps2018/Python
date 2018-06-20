@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-File:
+File: rps.py
 Name:
 
 A rock-paper-scissors game against the CPU
