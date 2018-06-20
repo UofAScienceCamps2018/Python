@@ -24,7 +24,7 @@ Gives you length of a string
     name= "Yasas"
     print(len(name))
     >>5
-### in ###
+### subString in string ###
 returns true if a substring is in a string 
 
     name="Yasas"
